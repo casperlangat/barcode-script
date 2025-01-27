@@ -1,7 +1,8 @@
 Steps to Run:
 1. Install the required library:
-##bash
-##pip install qrcode[pil]
+   
+bash
+pip install qrcode[pil]
 
 2. Replace data with your ticket information.
 
